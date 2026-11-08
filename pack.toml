@@ -1,0 +1,13 @@
+name = "Whiteout"
+author = "SilentBear_EL"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "400cec6db789bc2ce18fbdb211efb893dc6a97718af4451eb5e236c428f2a892"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.265"

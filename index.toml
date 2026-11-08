@@ -1,0 +1,101 @@
+hash-format = "sha256"
+
+[[files]]
+file = ".gitignore"
+hash = "6f17f90dd46c52c8c9ff7194038556b6758ea546abb44535dd3e407b8aa2ba4f"
+
+[[files]]
+file = "mods/AmbientSounds_NEOFORGE_v6.3.11_mc1.21.1.jar"
+hash = "72f57a9ba621f18994a17c5882f2d7fa34d27fa3614c1073d49bd3deda61b8d8"
+
+[[files]]
+file = "mods/Axiom-6.1.5-for-MC1.21.1.jar"
+hash = "1486bd5092a2faf0d60bd58ce8b5e7a8e6be3754ca0efa7aa385cb534894a1df"
+
+[[files]]
+file = "mods/CreativeCore_NEOFORGE_v2.13.52_mc1.21.1.jar"
+hash = "c24e1f6602315ab34f8f01c87760d3a4a682e6d77a6b4880b73cd7e6c80338b9"
+
+[[files]]
+file = "mods/DistantHorizons-3.3.3-1.21.1-fabric-neoforge.jar"
+hash = "864e70def5b0d54d619b940b66bb2784e91d3f3fc253064fdc1b3fc5786cbfab"
+
+[[files]]
+file = "mods/ImmediatelyFast-NeoForge-1.6.15+1.21.1.jar"
+hash = "7d7b1d7b9f71d5303e42b2fa45f222a5ab06e0ef5982abb6da5dd9cc449b3702"
+
+[[files]]
+file = "mods/Kiwi-1.21.1-NeoForge-15.8.7.jar"
+hash = "f1222ac3773b2814d40ee6e77129bb27a29d82ec76d7a878ba23d3f5f9f8a392"
+
+[[files]]
+file = "mods/MouseTweaks-neoforge-mc1.21-2.26.1.jar"
+hash = "68e6f4201c5de97b77929a7215c9552495696ca6a3bf3ae4eacc34e135f6cc8b"
+
+[[files]]
+file = "mods/SnowRealMagic-1.21.1-NeoForge-12.2.3.jar"
+hash = "7077cd92e2e6402bedaea25350d077cf77107b00917151eb65cb25ffa994ad72"
+
+[[files]]
+file = "mods/amendments-1.21-2.2.7-neoforge.jar"
+hash = "352d8d9752d9a3ca66a976535d28d622d21b8a1ec58d1876a3f34dbda6eb3253"
+
+[[files]]
+file = "mods/cloth-config-15.0.140-neoforge.jar"
+hash = "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4"
+
+[[files]]
+file = "mods/connector-2.0.0-beta.17+1.21.1-full.jar"
+hash = "ca70b57df3a7a4e8d211fea7ff3ae77e768482af374f26bf953ff5fd755564f0"
+
+[[files]]
+file = "mods/dhturbo-neoforge-1.21.1-1.5.0.jar"
+hash = "c2c2deca2aa3066a90a80fd329b16600606b6dc09f1bfaad49acc8b93c7355ae"
+
+[[files]]
+file = "mods/forgified-fabric-api-0.116.15+2.3.6+1.21.1.jar"
+hash = "bcbb5d8479032690d53debfcf61c0477080ff6d1d4dae9a9a85122b47377646a"
+
+[[files]]
+file = "mods/hoarfrost-neoforge-1.21.1-1.4.0.jar"
+hash = "ded00df7a531451339fea6c9e5098a51da1ecefc2312a64231e84a5b68f4a674"
+
+[[files]]
+file = "mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar"
+hash = "60d5f8bf52f25e9986440f4a4270a6bd986d9cff994510e1108ac1547063b314"
+
+[[files]]
+file = "mods/kilagraph-neoforge-1.21.1-21.1.0.16.jar"
+hash = "a57dede0f9c9eb015203a99cffe0c4185618e78a915eebe1525d355f2641da60"
+
+[[files]]
+file = "mods/ldlib2-neoforge-1.21.1-2.2.45-all.jar"
+hash = "b19314a7c043fdd3b721536175257c3ee67ee19423939f06b215d20914d921f4"
+
+[[files]]
+file = "mods/moonlight-1.21.1-3.8.0-neoforge.jar"
+hash = "cdb0f0dac146abce76d316409eb72f5d1a375ebb65d138760de83f39537cfcf0"
+
+[[files]]
+file = "mods/photon-neoforge-1.21.1-2.2.10-all.jar"
+hash = "b5e5ca3697ccd90f28bdf29e5b01a6ea4fb93f1a77ebfd890679a363aa62376e"
+
+[[files]]
+file = "mods/reeses-sodium-options-neoforge-2.2.4+mc1.21.1.jar"
+hash = "e4c86cad7c86c3601261441c0282571dc6b1ebeb41b694c11eb58b2becb90b51"
+
+[[files]]
+file = "mods/sodium-neoforge-0.8.13+mc1.21.1.jar"
+hash = "575d187b15328d7bddd8a9b1bee64333c22c14735f5780ec49eac0cd5503c08d"
+
+[[files]]
+file = "mods/sound-physics-remastered-neoforge-1.21.1-1.5.2.jar"
+hash = "108cac1fe49d0dc210183d69787db5a359cdc03c5b580eb8ab0208be7f072982"
+
+[[files]]
+file = "mods/supplementaries-1.21.1-4.0.2-neoforge.jar"
+hash = "2c2e0c98e0cc21874d8b2130bc773a2a5a6cadd854b9c8163d0e1f32e2ddffb0"
+
+[[files]]
+file = "mods/worldedit-mod-7.3.8.jar"
+hash = "5e7752c97876d87411e3760bcc573cc431f43c453722e6959fa7fe54db1b01ca"

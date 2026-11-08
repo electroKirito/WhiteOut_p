@@ -1,0 +1,25 @@
+# Игнорировать всё в корне
+/*
+
+# Разрешить packwiz заходить в нужные папки
+!/mods
+!/config
+!/kubejs
+!/resourcepacks
+
+# Игнорировать всё внутри config, КРОМЕ нужных файлов/папок
+config/*
+!config/realcamera.json
+!config/manaattributes
+!config/sound_physics_remastered
+
+# Исключения внутри kubejs
+kubejs/probe/
+
+# Корневые файлы packwiz
+!/pack.toml
+!/index.toml
+!/*.pw.toml
+!/.packwizignore
+!/.gitignore
+!/.gitattributes
